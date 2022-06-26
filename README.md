@@ -2,8 +2,8 @@
 
 
 ## 개발환경 셋팅 및 React 설치 
-> node v16.15.1 설치
-> vs code 설치
+> node v16.15.1 설치  
+> vs code 설치  
 > 프로젝트 생성
 >> ``` npx create-react-app 프로젝트명 ```  
 >> ``` npm start ```
