@@ -1,5 +1,14 @@
 # Web_InfectiousDisease
+---------
 
+## 개발환경 셋팅 및 React 설치 
+>1. node v16.15.1 설치
+>2. vs code 설치
+
+
+
+
+## 참고 사이트
 
 공공 데이터 주소 : https://www.data.go.kr/index.do
 
